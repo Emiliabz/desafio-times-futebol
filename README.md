@@ -1,34 +1,27 @@
-﻿# Desafio: Times de Futebol
+﻿# Desafio: Times Futebol
 
-Sistema de gerenciamento de campeonatos de futebol.
+Desafio de lÃ³gica em Python desenvolvido durante meus estudos em AnÃ¡lise e Desenvolvimento de Sistemas (ADS).
 
 ## ðŸŽ¯ DescriÃ§Ã£o
 
-ExercÃ­cio que implementa um sistema completo para gerenciar times, jogos e classificaÃ§Ãµes em um campeonato de futebol.
+ExercÃ­cio prÃ¡tico que implementa algoritmos para manipulaÃ§Ã£o de dados e estruturas em Python.
 
 ## ðŸ› ï¸ Tecnologias Utilizadas
 
 - **Python 3** - Linguagem de programaÃ§Ã£o
 
-## ðŸš€ ExecuÃ§Ã£o
+## ðŸš€ Como Executar
 
 `ash
-# Executar o sistema
-python desafio_times_futebol.py
+python desafio-times-futebol.py
 `
 
 ## ðŸ“‹ Funcionalidades
 
-- Cadastro de times
-- Registro de jogos
-- CÃ¡lculo de pontos (vitÃ³ria=3, empate=1, derrota=0)
-- ClassificaÃ§Ã£o automÃ¡tica
-- EstatÃ­sticas de times
-
-## ðŸ’¡ Sistema de Pontos
-
-- VitÃ³ria: 3 pontos
-- Empate: 1 ponto
-- Derrota: 0 pontos
+- ImplementaÃ§Ã£o do algoritmo solicitado
+- Entrada e processamento de dados
+- SaÃ­da formatada dos resultados
 
 ---
+
+*Desenvolvido por EmÃ­lia - Estudante de ADS*
